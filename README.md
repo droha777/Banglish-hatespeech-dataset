@@ -30,9 +30,10 @@ The 13,077 hate instances are categorized into six fine-grained classes:
 ## Dataset Samples
 Figure 1 and Figure 2 show sample annotated Banglish hate speech comments from the proposed dataset.
 
-![Sample of multi-class hate speech classification](multiclass_sample.jpeg)
+<img width="507" height="203" alt="WhatsApp Image 2026-09-18 at 18 53 59" src="https://github.com/user-attachments/assets/603d9c38-e60c-4fc7-aaed-09bc4adba6c7" />
 
-![Sample of combined binary dataset](binary_sample.jpeg)
+
+<img width="507" height="113" alt="WhatsApp Image 2026-09-18 at 18 58 24" src="https://github.com/user-attachments/assets/db4cc13b-95d9-4c9d-b46b-ced535fe5601" />
 
 ## Citation
 If you use this dataset in your research, please cite our paper:
